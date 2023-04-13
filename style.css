@@ -6,6 +6,11 @@ background-color: #FBDF4B;
 
 }
 
+.cabecalho{
+display: flex;
+
+}
+
 .cabecalho__titulo{
 
     display: inline;
@@ -27,4 +32,5 @@ border-radius: 100px;
 .cabecalho__menu-item{
 
     display: inline;
+    margin-left: 20px;
 }
