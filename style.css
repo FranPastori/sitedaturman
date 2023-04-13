@@ -7,8 +7,10 @@ background-color: #FBDF4B;
 }
 
 .cabecalho{
+background-color: rgb(139, 137, 135);
 display: flex;
-
+justify-content: space-around;
+align-items: center;
 }
 
 .cabecalho__titulo{
@@ -33,4 +35,5 @@ border-radius: 100px;
 
     display: inline;
     margin-left: 20px;
+    font-size: 32px;
 }
