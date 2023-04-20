@@ -44,7 +44,7 @@ border-radius: 100px;
 }
 
 .escola{
-
+    display: flex;
     background-color: darkgray;
 
 }
