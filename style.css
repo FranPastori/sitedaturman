@@ -1,7 +1,7 @@
 
 body {
 
-background-color: #FBDF4B;
+background-color: #fafafa;
 
 
 }
@@ -36,4 +36,15 @@ border-radius: 100px;
     display: inline;
     margin-left: 20px;
     font-size: 32px;
+}
+
+.escola{
+
+    background-color: darkgray;
+
+}
+
+.professores {
+
+    background-color: #FBDF4B;
 }
