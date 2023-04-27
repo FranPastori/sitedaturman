@@ -62,8 +62,9 @@ body {
 .professores {
     display: grid;
     justify-content:center;
-    grid-template-columns:  1fr 1fr 1fr 1fr 1fr;
-    align-items: center;
+    grid-template-columns:  1fr 1fr 1fr ;
+    place-items: center;
+    justify-items: cen;
     background-color: #FEC229;
 
 }
