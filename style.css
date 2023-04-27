@@ -64,11 +64,9 @@ height: auto;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: auto auto;
     background-color: #FBDF4B;
+    align-items:center ;
 }
-.professores__div{
-    display: flex;
-    align-items: center;
-}
+
 .professores__div-imagem {
     width: 120px;
     height: auto;
