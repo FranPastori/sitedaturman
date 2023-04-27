@@ -61,6 +61,8 @@ height: auto;
 
 .professores {
     display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
     background-color: #FBDF4B;
 }
 
