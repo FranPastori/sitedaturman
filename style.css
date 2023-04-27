@@ -60,7 +60,7 @@ height: auto;
 }
 
 .professores {
-
+    display: grid;
     background-color: #FBDF4B;
 }
 
