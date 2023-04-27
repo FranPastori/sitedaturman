@@ -67,7 +67,7 @@ height: auto;
 }
 .professores__div{
     display: flex;
-    justify-content: center;
+    align-items: center;
 }
 .professores__div-imagem {
     width: 120px;
