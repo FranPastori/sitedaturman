@@ -64,6 +64,7 @@ body {
     justify-content:center;
     grid-template-columns:  1fr 1fr 1fr 1fr 1fr;
     align-items: center;
+    background-color: #FEC229;
 
 }
 
